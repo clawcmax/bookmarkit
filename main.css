@@ -5,9 +5,45 @@ body {
 	padding: 0;
 	box-sizing: border-box;
 	font-family: Raleway, sans-serif;
+	background: black url("https://image.ibb.co/cEkmeK/abstract_attractive_backdrop_988872_1.jpg");
+
+}
+
+.content {
+	margin: 0 auto;
+	width: 70%;
+}
+
+header {
+	color: #2F294F;
+}
+
+header div {
+	display: inline-block;
+
+}
+
+.logo {
+	position: relative;
+	top: 0;
+	border: 1px solid white;
+}
+
+.logo img {
+	width: 80%;
+	
+
 }
 
 h1 {
 	font-family: Bungee, sans-serif;
-	font-size: 4em;
+	font-size: 5em;
+	border: 1px solid white;
+	margin: 0;
+	padding: -5px;
+}
+
+
+h2 {
+	border: 1px solid white;
 }
